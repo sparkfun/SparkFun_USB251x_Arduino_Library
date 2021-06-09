@@ -24,7 +24,7 @@ Documentation
 --------------
 
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
-* **[Product Repository](https://github.com/sparkfunX/Qwiic_USB_Hub)** - Main repository (including hardware files)
+* **[Product Repository](https://github.com/sparkfunX/Qwiic_USB_Hub-USB2514B)** - Main repository (including hardware files)
 
 Products that use this Repository
 --------------
