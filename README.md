@@ -1,7 +1,7 @@
 SparkFun USB251xB Arduino Library
 ========================================
 
-[![SparkX USB Hub - USB2514B (Qwiic)]()](https://www.sparkfun.com/products/18014)
+[![SparkX USB Hub - USB2514B (Qwiic)](https://cdn.sparkfun.com//assets/parts/1/7/2/2/9/18014-Qwiic_USB_Hub-03.jpg)](https://www.sparkfun.com/products/18014)
 
 [*SparkX USB Hub - USB2514B (Qwiic) (SPX-18014)*](https://www.sparkfun.com/products/18014)
 
@@ -24,7 +24,7 @@ Documentation
 --------------
 
 * **[Installing an Arduino Library Guide](https://learn.sparkfun.com/tutorials/installing-an-arduino-library)** - Basic information on how to install an Arduino library.
-* **[Product Repository](https://github.com/sparkfun/SparkFun_High_Precision_Temperature_Sensor_TMP117_Qwiic)** - Main repository (including hardware files)
+* **[Product Repository](https://github.com/sparkfunX/Qwiic_USB_Hub)** - Main repository (including hardware files)
 
 Products that use this Repository
 --------------
